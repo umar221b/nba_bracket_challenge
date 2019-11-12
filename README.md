@@ -1,4 +1,4 @@
-# cse450_endless_frogger
+# NBA Bracket Challenge
 
 **To create and push a feature:**
 - Create a feature branch from develop:
